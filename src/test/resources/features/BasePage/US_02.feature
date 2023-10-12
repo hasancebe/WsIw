@@ -1,4 +1,4 @@
-@p1
+
 Feature: Buttons and links on the home page should redirect to related pages
 
 
